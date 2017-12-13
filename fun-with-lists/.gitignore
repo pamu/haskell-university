@@ -1,0 +1,5 @@
+.stack-work/
+fun-with-lists.cabal
+*~
+.idea
+.iml
